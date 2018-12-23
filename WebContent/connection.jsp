@@ -28,9 +28,9 @@
 		
 	<div class="container">
 		<div class="jumbotron" style="margin-top:30px;">
-  			<p>联系地址:北京城市学院某处某地~找得到算我输</p>
+  			<p>联系地址: 北京城市学院某处某地~找得到算我输</p>
   			<p>联系方式：18810555555~打得通就怪啦</p>
-  			<p>github地址：~打得通就怪啦</p>
+  			<p>github地址：https://github.com/daibawang/EShop  ~这个可以访问，顺便求个赞</p>
 		</div>
 	</div>		
 	

@@ -29,7 +29,7 @@
 	<div class="container">
 		<div class="jumbotron" style="margin-top:30px;">
   			<p>欢迎光临EStore百货铺子</p>
-  			<p>这一家啥都卖~啥都有宇宙最强的购物铺子~选购吧</p>
+  			<p>这一家啥都卖~啥都有宇宙最强的购物铺子~快去选购吧</p>
   			
 		</div>
 	</div>		

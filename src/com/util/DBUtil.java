@@ -7,7 +7,7 @@ public class DBUtil {
         Connection conn = null;
         try{
             Class.forName("com.mysql.jdbc.Driver").newInstance();
-            conn= DriverManager.getConnection("jdbc:mysql://39.106.208.110:3306/estore?useUnicode=true&characterEncoding=gb2312","root","rootroot");
+            conn= DriverManager.getConnection("");
             return conn;
         }
         catch(Exception e){
